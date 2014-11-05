@@ -1,6 +1,7 @@
 import random
 import time
 
+print 'Use Ctrl-C to exit while running'
 print 'Note: Maximize window for best effect'
 sizeStr = raw_input('Choose the size between 5 and 40: ')
 size = int(sizeStr)
